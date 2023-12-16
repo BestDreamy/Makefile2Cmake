@@ -1,0 +1,2 @@
+hello: main.cpp factorial.cpp printhello.cpp
+	g++ main.cpp factorial.cpp printhello.cpp -o hello

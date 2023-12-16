@@ -1,0 +1,18 @@
+CXX = g++
+TARGET = hello
+OBJECT = factorial.o printhello.o main.o
+CXXFLAGS = -c -Wall
+
+# $@: 表示target
+# $^: 表示所有依赖的object
+# $<: 表示依赖object文件中的第一个
+$(TARGET): $(OBJECT)
+	$(CXX) $^ -o $@
+
+%.o: %.cpp
+	$(CXX) $(CXXFLAGS) $< $@
+
+.PHONYL: clean
+
+clean:
+	rm -rf *.o $(TARGET)

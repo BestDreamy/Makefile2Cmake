@@ -1,6 +1,0 @@
-/home/baichuan/ca2/shanghaitech-RISCV-Simulator/build/CMakeFiles/Simulator.dir
-/home/baichuan/ca2/shanghaitech-RISCV-Simulator/build/CMakeFiles/CacheSim.dir
-/home/baichuan/ca2/shanghaitech-RISCV-Simulator/build/CMakeFiles/CacheOptimized.dir
-/home/baichuan/ca2/shanghaitech-RISCV-Simulator/build/CMakeFiles/ToDirenoTrace.dir
-/home/baichuan/ca2/shanghaitech-RISCV-Simulator/build/CMakeFiles/edit_cache.dir
-/home/baichuan/ca2/shanghaitech-RISCV-Simulator/build/CMakeFiles/rebuild_cache.dir

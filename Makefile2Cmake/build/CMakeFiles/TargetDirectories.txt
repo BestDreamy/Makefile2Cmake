@@ -1,0 +1,3 @@
+/home/baichuan/ca2/lab/Makefile2Cmake/build/CMakeFiles/main.dir
+/home/baichuan/ca2/lab/Makefile2Cmake/build/CMakeFiles/edit_cache.dir
+/home/baichuan/ca2/lab/Makefile2Cmake/build/CMakeFiles/rebuild_cache.dir

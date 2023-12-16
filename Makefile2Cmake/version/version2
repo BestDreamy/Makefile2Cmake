@@ -1,0 +1,15 @@
+CXX = g++
+TARGET = hello
+OBJECT = factorial.o printhello.o main.o
+
+$(TARGET): $(OBJECT)
+	$(CXX) $(OBJECT) -o $(TARGET)
+
+factorial.o: factorial.cpp
+	$(CXX) factorial.cpp -c factorial.o
+
+printhello.o: printhello.cpp
+	$(CXX) printhello.cpp -c printhello.o
+
+main.o: main.cpp
+	$(CXX) main.cpp -c main.o

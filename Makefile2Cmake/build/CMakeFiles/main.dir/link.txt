@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/factorial.cpp.o CMakeFiles/main.dir/printhello.cpp.o -o main 
